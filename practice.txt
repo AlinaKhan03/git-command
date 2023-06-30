@@ -1,0 +1,8 @@
+shinchan
+git commands(initial commands)
+git init : initializes an empty repository , this cmd should be invoked only once
+git add : this cmd adds all the files present in the directory(parameters . presents current directory)
+git commit -m : this cmd records all the changes 
+git branch -M branch_name : this cmd initializes new branch
+git remote add origin remote_url : this cmd add repos url 
+git push -u origin branch_name : this cmd all the stages to the particular repos url and branch_name
