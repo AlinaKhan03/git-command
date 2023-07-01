@@ -1,0 +1,1 @@
+print("ek pagal ladki alina")
